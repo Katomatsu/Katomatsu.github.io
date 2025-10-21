@@ -1,0 +1,1 @@
+const o=()=>{(function(t,i,c,p,E,e){const s=t[e]=t[e]||function(...I){(s.q=s.q||[]).push(I)},n=i.createElement(c);n.src=`${p}?v=${E}`,n.type="module",n.async=!0,i.head.appendChild(n)})(window,document,"script","{WIDGET_SCRIPT_URI}","{WIDGET_VERSION}","mqzzs"),mqzzs("init",{apiEndpoint:"{WIDGET_API_ENDPOINT}"})};o();
